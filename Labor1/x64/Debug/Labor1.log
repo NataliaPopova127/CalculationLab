@@ -1,0 +1,4 @@
+﻿  Labor1.cpp
+D:\АГУ\ООП\Labor1\Labor1\Labor1.cpp(125,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\АГУ\ООП\Labor1\Labor1\Labor1.cpp(126,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Labor1.vcxproj -> D:\АГУ\ООП\Labor1\x64\Debug\Labor1.exe

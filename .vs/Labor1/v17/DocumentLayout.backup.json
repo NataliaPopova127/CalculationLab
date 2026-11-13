@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0410\u0413\u0423\\\u041E\u041E\u041F\\Labor1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A0612-A281-4243-92DB-0B661803D1A5}|Labor1\\Labor1.vcxproj|D:\\\u0410\u0413\u0423\\\u041E\u041E\u041F\\Labor1\\Labor1\\Labor1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F54A0612-A281-4243-92DB-0B661803D1A5}|Labor1\\Labor1.vcxproj|solutionrelative:Labor1\\Labor1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Labor1.cpp",
+              "DocumentMoniker": "D:\\\u0410\u0413\u0423\\\u041E\u041E\u041F\\Labor1\\Labor1\\Labor1.cpp",
+              "RelativeDocumentMoniker": "Labor1\\Labor1.cpp",
+              "ToolTip": "D:\\\u0410\u0413\u0423\\\u041E\u041E\u041F\\Labor1\\Labor1\\Labor1.cpp",
+              "RelativeToolTip": "Labor1\\Labor1.cpp",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAowLIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-13T02:23:08.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
